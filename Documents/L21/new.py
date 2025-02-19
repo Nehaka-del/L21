@@ -5,3 +5,6 @@ print("sum",sum)
 
 diff=a-b
 print("diff",diff)
+
+product=a*b
+print("product",product)
