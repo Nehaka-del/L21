@@ -2,3 +2,4 @@
 void main() {
 	int a=3,b=8;
 	print("%d",a);
+	print("%d",b);
