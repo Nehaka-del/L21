@@ -8,3 +8,6 @@ print("diff",diff)
 
 product=a*b
 print("product",product)
+
+quotient=a/b
+print("quotient",quotient)
