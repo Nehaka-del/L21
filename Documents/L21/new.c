@@ -5,3 +5,4 @@ int main() {
 	scanf("%d %d", &a, &b);
 
 	printf("The sum is:%d\n",a+b);
+	printf("The difference is:%d\n",a-b);
