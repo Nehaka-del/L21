@@ -1,5 +1,6 @@
 #include <stdio.h>
 void main() {
 	int a=3,b=8;
-	print("%d",a);
-	print("%d",b);
+	printf("%d",a);
+	printf("%d",b);
+	printf("d",a+b);
