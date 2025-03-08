@@ -27,3 +27,8 @@ case 7:
 printf("Saturday\n");
 break;
 
+default:
+printf("Invalid input!please enter a number between 1 to 7.\n");
+}
+return 0;
+}
