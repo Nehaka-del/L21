@@ -23,3 +23,7 @@ break;
 case 6:
 printf("Friday\n");
 break;
+case 7:
+printf("Saturday\n");
+break;
+
